@@ -1,0 +1,187 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /*header start*/
+   .menu ul li a{
+     text-align: right;
+     padding-right: 0!important;
+   }
+  /*header end*/
+  
+  /*slider start*/
+  .slider{
+   padding-bottom: 70px;
+  }
+ .cindi{
+   bottom: -60px;
+ }
+  .sr_content{
+  margin-top: 10px;
+}
+.sr_content h1{
+  font-size: 25px;
+}
+.sr_content h2{
+  margin: 15px 0;
+}
+.sr_content{
+  margin-bottom: 20px;
+}
+.sr_icon li{
+  font-size: 30px;
+  margin-right: 10px!important;
+}
+  /*slider end*/
+  
+  
+  /*featured start*/
+.features{
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+.c_h1{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.c_p{
+  font-size: 18px;
+  word-spacing: 0px;
+}
+.m_t_60{
+  margin-top: 30px;
+}
+.f_icon{
+  font-size: 30px;
+}
+.f_text{
+  text-align: center;
+}
+.f_text h2{
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.f_text p{
+  letter-spacing: 0px;
+}
+  /*featured end*/
+  
+  /* contract start */
+.contract{
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+.c_form{
+  margin-bottom: 35px;
+}
+.f_submit{
+  margin-top: 20px;
+}
+.c_icon li{
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+}
+.c_icon li a{
+  font-size: 24px;
+  
+}
+/* contract end */
+
+/* footer start */
+ footer{
+  padding-bottom: 70px;
+}
+.ft_content{
+  text-align: center;
+  margin-bottom: 30px;
+}
+/* footer end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /*header start*/
+   .menu ul li a{
+     text-align: right;
+     padding-right: 0!important;
+   }
+  /*header end*/
+  
+  /*slider start*/
+ .sr_content{
+   margin-top: 30px;
+ }
+  /*slider end*/
+  
+  /*featured start*/
+.features{
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+.c_h1{
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+.m_t_60{
+  margin-top: 40px;
+}
+.f_icon{
+  font-size: 40px;
+}
+.f_text{
+  text-align: center;
+}
+  /*featured end*/
+  
+    /* contract start */
+.contract{
+  padding-top: 60px;
+  padding-bottom: 80px;
+}
+.c_form{
+  margin-bottom: 40px;
+}
+.c_icon li{h
+  margin: 0 8px;
+}
+/* contract end */
+
+/* footer start */
+ footer{
+  padding-bottom: 80px;
+}
+.ft_content{
+  text-align: center;
+  margin-bottom: 30px;
+}
+/* footer end */
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /*header start*/
+   .menu ul li a{
+     text-align: right;
+     padding-right: 0!important;
+   }
+  /*header end*/
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /*slider start*/
+  .sr_img{
+    margin-left: 15px;
+  }
+  /*slider start*/
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  /*slider start*/
+  .sr_img{
+    margin-left: 15px;
+  }
+  /*slider start*/
+}
